@@ -14,4 +14,10 @@
 
  ![fellipemanaia's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fellipemanaia&hide_border=true&theme=github-light)
  
+  
+  <div> 
+  <a href="https://instagram.com/fe.manaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+  
+  
  ![Snake animation](https://github.com/fellipemanaia/fellipemanaia/blob/output/github-contribution-grid-snake.svg)
