@@ -11,6 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemanaia&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
+  
  ![fellipemanaia's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fellipemanaia&hide_border=true&theme=github-light)
  
   
