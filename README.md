@@ -13,6 +13,13 @@
 <br>
   
  ![fellipemanaia's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fellipemanaia&hide_border=true&theme=github-light)
+   
+   <div style="display: inline_block"><br>
+  <h3 align="left">Languages and Tools:</h3>
+  <img align="center" alt="Fellipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fellipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fellipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fellipe-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
  
   
   <div> 
