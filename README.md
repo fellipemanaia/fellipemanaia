@@ -2,6 +2,7 @@
 
 -   Studying in ETEC MCM
 -   Coursing I.T.
+-   I'll be very happy if you follow me here!😁
 <br>
   <div align="center"> 
   <a href="https://instagram.com/fe.manaia" target="_blank"><img height"300em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
