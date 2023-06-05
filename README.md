@@ -17,7 +17,6 @@
 </div>
 <br>
   
- ![fellipemanaia's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fellipemanaia&hide_border=true&theme=github-light)
    
    <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
