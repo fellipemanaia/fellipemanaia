@@ -1,8 +1,7 @@
 <h2 align="center">✔WELCOME TO MY PROFILE✔</h2>
 
--   Studying in ETEC MCM
--   Coursing I.T.
--   I'll be very happy if you follow me here!😁
+-   Studying in Fatec São Caetano
+-   Coursing ADS
 <br>
   <div align="center"> 
   <a href="https://instagram.com/fe.manaia" target="_blank"><img height"300em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,5 +24,3 @@
   <img align="center" alt="Fellipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fellipe-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Daniel-BootsTrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-
- ![Snake animation](https://github.com/fellipemanaia/fellipemanaia/blob/output/github-contribution-grid-snake.svg)
